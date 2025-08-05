@@ -1,6 +1,6 @@
-# Jugando Sin Barreras 
+# 👩‍🦯 Jugando Sin Barreras 👀
 
-<img width="626" height="442" alt="image" src="https://github.com/user-attachments/assets/9f7a89a7-3909-4e4c-b2ee-02127a85cef3" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9f7a89a7-3909-4e4c-b2ee-02127a85cef3" />
 
 
 
@@ -8,17 +8,13 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
+> 👨‍🦯 Nuestro proyecto se basa en un kit de juegos interactivos que esta dirigido a población infantil en condiciones de discapacidad visual y es importante para mejorar la inclusión entre todos y asi mismo mejorar el aprendizaje mediante estos juegos con temática de Colombia 💛💙❤️
 
 ---
 
 ## 🎯 Objetivo del Proyecto
 
-Explica brevemente el propósito general:
-
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+Desarrollar actividades lúdicas y recreativas accesibles para que personas con discapacidad visual puedan ser incluidas en la educación y el entretenimiento.
 
 ---
 
@@ -29,38 +25,16 @@ Explica brevemente el propósito general:
 
 ### 📸 Capturas
 
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
-|--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+<img width="200" height="227" alt="image" src="https://github.com/user-attachments/assets/05368ca8-683f-40ab-9ec7-ef92db9718d7" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/4bc54a86-fbb3-4182-bd68-f0f6f601f701" />
 
 ---
 
 ## 🧰 Tecnologías Utilizadas
 
-**Frontend:**
-- React / Vue / HTML + CSS + JS  
-- Tailwind CSS / Bootstrap / Material UI
+**Base de datos: 💻**
+- Arduino (Circuito)
 
-**Backend:**
-- Node.js / Express / Django / Firebase
+**Diseño: 🖼️**
+- SolidWorks (Estructuras)
 
-**Base de datos:**
-- MongoDB / PostgreSQL / Firestore
-
-**Otras herramientas:**
-- Figma / Adobe XD (diseño)
-- Git / GitHub (control de versiones)
-- Netlify / Vercel / Heroku (despliegue)
-
----
-
-## ⚙️ Instalación
-
-### Requisitos previos
-
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
-
-### Pasos
