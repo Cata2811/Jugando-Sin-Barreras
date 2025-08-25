@@ -18,11 +18,6 @@ Desarrollar actividades lúdicas y recreativas accesibles para que personas con 
 
 ---
 
-## 🧪 Prototipo
-
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
-
 ### 📸 Capturas
 
 <img width="200" height="227" alt="image" src="https://github.com/user-attachments/assets/05368ca8-683f-40ab-9ec7-ef92db9718d7" />
