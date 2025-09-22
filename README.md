@@ -108,8 +108,8 @@ El kit contiene un juego tipo <em>"Adivina Quién"</em> con temática de Colombi
 
 ### 📸 Capturas
 
-<img width="200" height="227" alt="image" src="https://github.com/user-attachments/assets/05368ca8-683f-40ab-9ec7-ef92db9718d7" />
-<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/4bc54a86-fbb3-4182-bd68-f0f6f601f701" />
+<img width="200" height="227" alt="Prototipo físico del modulo RFID (vista frontal)" src="https://github.com/user-attachments/assets/05368ca8-683f-40ab-9ec7-ef92db9718d7" />
+<img width="300" height="450" alt="Prototipo circuito control de acceso" src="https://github.com/user-attachments/assets/4bc54a86-fbb3-4182-bd68-f0f6f601f701" />
 
 <h2 id="mejoras-futuras">🔭 Mejoras y trabajo futuro</h2>
 <ul>
